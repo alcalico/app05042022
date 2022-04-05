@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0b49ac21-5444-4eff-a1db-24b47e310b31/resourceGroups/appsvc_linux_centralus_premium/providers/Microsoft.Web/sites/mywebappalicanx",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
